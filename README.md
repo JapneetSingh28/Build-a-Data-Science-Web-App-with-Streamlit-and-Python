@@ -1,7 +1,7 @@
 # Build a Data Science Web App with Streamlit and Python.
 Download the dataset from here:https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
-# dependencies
+# Dependencies
 - python3
 - pip install streamlit
 - to run app.py ,enter and run this command in terminal - "streamlit run app.py"
